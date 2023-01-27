@@ -5,4 +5,5 @@ read your_command
 sudo apt-get update
 #now we can upgrade our system
 sudo apt-get upgrade
+#finally you run your custom install command
 sudo $your_command 
