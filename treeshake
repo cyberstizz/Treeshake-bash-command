@@ -5,5 +5,7 @@ read your_command
 sudo apt-get update
 #now we can upgrade our system
 sudo apt-get upgrade
+#now we do the actual tree shaking by running apt auto-clean
+sudo apt-get auto-clean
 #finally you run your custom install command
 sudo $your_command 
