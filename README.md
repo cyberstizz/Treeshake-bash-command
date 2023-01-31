@@ -1,4 +1,34 @@
-# Treeshake-bash-command
-this is a custom bash script/command that I created to avoid the redundant process of always having to type apt-get update followed by apt-get upgrade on your system before every install. 
 
-to use this command simply type treeshake and you will be prompted for your command. after typing your command, the system will update the package lists and upgrade your system. Finally your software can be installed clean and cool.
+![](https://www.treepeople.org/wp-content/uploads/2016/06/giphy-3.gif)
+
+#      **Basic Bank**
+
+## _this is a react application created to test a Django backend_
+
+### this project includes
+* React Js
+* Axios
+* Thats it!
+
+
+### Synopsis
+bored I felt it completely appropriate to orchestrate an impulse marriage between our dearly beloved React and Django.
+
+
+but uh... except.. this project only includes React
+
+yeah. Sorry about that
+
+React is part 1
+
+Part 2 is coming tomorrow
+
+
+### Code Review
+section coming soon stay tuned
+
+### final thought
+#### this project is to be a no rough stuff type of deal, or put better a quick 2 hour max project.
+
+
+### for more projects by CyberStizz visit: [Charleslambjr.com](https://www.charleslambjr.com/)
